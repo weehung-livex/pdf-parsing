@@ -1,0 +1,16 @@
+pdf2image
+Pillow
+openai
+python-dotenv
+PyMuPDF
+voyageai
+matplotlib
+numpy
+llama-index-core
+llama-parse
+llama-index-readers-file
+PyPDF2
+pdfminer.six
+chardet
+pdfplumber
+anthropic
