@@ -1,0 +1,146 @@
+SMART Series | TP-MVD8MV2
+TP-MVD8MV2
+8MP HD TwilightVisionTM IR VF Turret Network Camera
+KEY FEATURES
+✓ To be used with SMART Series NVR with Turing Vision Cloud ✓ 2.8~12mm Motorized Lens
+✓ Max. 8MP (3840*2160)@20fps
+✓ TwilightVisionTM technology superior low-light performance ✓ Built-in Mic
+✓ Smart IR, up to 40m (131 ft)
+✓ Supports 256 G Micro SD card ✓ IP67, IK10, WDR
+turing.ai sales@turingvideo.com (877) 730-8222
+1
+SMART Series | TP-MVD8MV2
+SPECIFICATIONS
+CAMERA
+Sensor
+Angle of view (H)
+Angle of View (O)
+Shutter
+Day/Night
+S/N
+Wavelength
+Defog
+H.264 code profile
+1/2.8", 8.0 megapixel, progressive scan, CMOS
+107.4°~ 29.2°
+111.0°~33.1°
+Auto/Manual, 1 ~ 1/100000s
+IR-cut filter with auto switch (ICR)
+>56dB
+850nm
+Digital Defog
+Baseline profile, Main Profile
+AUDIO
+Lens
+Angle of View (V)
+Adjustment angle
+Minimum Illumination
+Digital Noise Reduction
+IR Range
+IR On/Off Control
+WDR
+VIDEO & AUDIO
+Video Compression
+Frame Rate
+OSD ROI
+Digital noise reduction
+Flip HLC
+2.8 ~ 12mm, AF automatic focusing and motorized zoom lens
+Two-way audio Sampling Rate
+STORAGE
+Edge Storage
+Compatible NVR
+EVENTS
+Basic Detection
+Protocols
+Web Browser
+INTERFACES
+Built-in Mic
+Dimensions (Ø x H) Material
+Storage Environment
+Ingress Protection Reset Button
+turing.ai sales@turingvideo.com (877) 730-8222
+Supported 8KHZ
+Micro SD, up to 256GB
+Turing SMART NVR: TR-MR(P) models
+Motion detection, tampering alarm, audio detection
+IPv4, IGMP, ICMP, ARP, TCP, UDP, DHCP, PPPoE, RTP, RTSP, RTCP, DNS, DDNS, NTP, FTP, UPnP, HTTP, HTTPS, SMTP, 802.1x, SNMP, QoS
+Plug-in required live view: IE9+, Chrome 41 and below, Firefox 52 and below
+Supported
+Φ129 x 110mm (Ø5.1" x 4.3") Metal
+-30°C ~ 60°C (-22°F ~ 140°F), Humidity: ≤95% RH (non-condensing)
+IP67 Supported
+Audio Compression
+Suppression
+Network Storage
+INTELLIGENCE
+Smart intrusion Prevention
+General Function
+Compatible Integration
+G.711
+Supported
+54.2°~ 16.3° Pan: 0° ~ 360°
+Tilt: 0° ~ 75°
+Rotate: 0° ~ 360°
+ANR
+Color: 0.003Lux (F1.6, AGC ON) 0Lux with IR
+2D/3D DNR
+Up to 40m (131ft) IR range Auto/Manual
+120dB
+Ultra 265,H.265, H.264, MJPEG
+Cross line, intrusion, enter area detection
+Watermark, IP address filtering, tampering alarm, alarm input, alarm output, access policy, ARP protection, RTSP authentication, user authentication
+ONVIF (Profile S, Profile G, Profile T), API
+Main Stream: 8MP (3840*2160), Max 20fps;5MP (3072*1728), Max 30fps; 4MP (2560*1440), Max30fps; 1080P (1920*1080), Max 30fps;
+Sub Stream: 1080P (1920*1080), Max 30fps;720P (1280*720), Max 30fps; D1 (720*576), Max 30fps; 640*360,Max 30fps; 2CIF(704*288), Max 30fps; CIF(352*288), Max 30fps;
+Third Stream: D1 (720*576), Max 30fps; 640*360,Max 30fps; 2CIF(704*288), Max 30fps; CIF(352*288), Max 30fps;
+Up to 8 OSDs Up to 8 areas
+2D/3D DNR
+Normal/Vertical/Horizontal/180°/90°Clockwise/90°Anti- clockwise
+Supported
+Network 1 RJ45 10M/100M Base-TX Ethernet
+Video Bit Rate
+Privacy Mask
+Motion Detection
+White Balance
+Smart IR
+Dewarping
+128 Kbps~16 Mbps
+Up to 4 areas
+Up to 4 areas
+CERTIFICATIONS
+Certifications
+GENERAL
+Power
+CE: EN 60950-1 UL: UL60950-1 FCC: FCC Part 15
+DC 12V±25%, PoE (IEEE 802.3af) Power consumption: Max 9.0W
+IMAGE
+Auto/Outdoor/Fine Tune/Sodium Lamp/Locked/Auto2
+Support
+Supported
+Net Weight
+Working Environment
+Surge Protection
+0.69kg (1.52lb)
+-30°C ~ 60°C (-22°F ~ 140°F), Humidity: ≤95% RH (non-condensing)
+6KV
+BLC
+Supported
+Vandal Resistant
+IK10
+2
+SMART Series | TP-MVD8MV2
+TP-MFB4M28
+DIMENSIONS
+110mm (4.3")
+MOUNTING
+Junction Box: TP-VDJB
+Pole Mount: TP-UDPM Wall Mount: TP-VDWM WM w/ Junc. Box: TP-VDWJ
+Optional Cable Gland: TP-UWPJ
+Wall Mount: TP-VDWM w/ Junction Box: TP-VDWJ
+Pendant Mount: TP-AIPMB Junction Box: TP-VDJB Optional Extensions: TP-IPME2 (9") & TP-IPME5 (22)"
+turing.ai sales@turingvideo.com (877) 730-8222
+129mm (5.1")
+DIA. 08.5mm (4.2")
+3-DIA. 4.5mm (0.2")
+3
