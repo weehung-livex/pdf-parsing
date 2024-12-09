@@ -6,11 +6,6 @@ myenv
 __pycache__/
 *.pyc
 
-# Large files
-*.pdf
-test-pdfs/**/*
-!test-pdfs/**/original.txt
-
 # Previous entries
 test-pdfs/7228422
 test-pdfs/7228422-retest
@@ -24,3 +19,10 @@ test-pdfs/InstructionsCreatePDFofE-VerifyManual
 test-pdfs/test_pdf_for_parsing_no_flowchart_no_images
 test-pdfs/ThriveMapExampleSlide1
 test-pdfs/Underwriting Memo
+
+test-pdfs/axesPDF_Guide_EN_Table-Tool_V23-01-12
+test-pdfs/LoremIpsum
+test-pdfs/OktaSSOIntegrationManual101823
+test-pdfs/TP-MVD8MV2
+test-pdfs/TP-MVD8MV2-rotated
+test-pdfs/可灵AI国内QA
