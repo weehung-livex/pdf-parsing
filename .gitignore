@@ -1,0 +1,26 @@
+# include relevant gitignore files
+.env
+myenv
+
+# pycache
+__pycache__/
+*.pyc
+
+# Large files
+*.pdf
+test-pdfs/**/*
+!test-pdfs/**/original.txt
+
+# Previous entries
+test-pdfs/7228422
+test-pdfs/7228422-retest
+test-pdfs/c4611_sample_explain
+test-pdfs/Care_Team_Manual
+test-pdfs/Chiam.WeeHung.ThriveMap
+test-pdfs/distribution_tables_normal_studentt_chisquared
+test-pdfs/EditingTagsToFixComplexTables
+test-pdfs/Insta360BikeSeatRailMount
+test-pdfs/InstructionsCreatePDFofE-VerifyManual
+test-pdfs/test_pdf_for_parsing_no_flowchart_no_images
+test-pdfs/ThriveMapExampleSlide1
+test-pdfs/Underwriting Memo
