@@ -1,48 +1,31 @@
-# TURING
+# SMART Series | TP-MVD8MV2
 
-# COMPLIANT
+# TP-MVD8MV2 IR VF Turret Network Camera
 
-# NBAA: Onvife 1
-
--light performance
-
--8222
-
-turing.ai
-
-(877) 730
-
-sales@turingvideo.com
-
-# IR VF Turret Network Camera
-
-# ™
-
-# MVD8MV2
-
-# TwilightVision
-
-To be used with SMART Series NVR with Turing Vision Cloud
-
-2.8~12mm Motorized Lens IP67, IK10, WDR
-
-Max. 8MP (3840*2160)@20fps
-
-TwilightVision Supports 256 G Micro SD card
-
-Built Smart IR, up to 40m (131 ft)
-
-# SMART Series TP8MP HD
+# 8MP HD TwilightVision™
 
 # KEY FEATURES
 
-- ✓
-- ✓
-- ✓
-- ✓
-- ✓
-- ✓
-- ✓# SMART Series
+- To be used with SMART Series NVR with Turing Vision Cloud
+- 2.8~12mm Motorized Lens
+- Max. 8MP (3840*2160)@20fps
+- TwilightVision™ technology superior low-light performance
+- Built-in Mic
+- Smart IR, up to 40m (131 ft)
+- Supports 256 G Micro SD card
+- IP67, IK10, WDR
+
+# NBAA:
+
+COMPLIANT
+
+Onvife
+
+turing.ai
+
+sales@turingvideo.com
+
+(877) 730-8222# SMART Series
 
 # TP-MVD8MV2
 
@@ -166,22 +149,18 @@ sales@turingvideo.com
 
 # DIMENSIONS
 
-|TP-MFB4M28129|mm (5.1”)| | |
-|---|---|---|---|
-| |DIA.|08.5mm|(4.2”)|
-|110mm|(4.3”)| | |
-| |3-DIA.|4.5mm|(0.2”)|
+TP-MFB4M28129mm (5.1”)
+DIA. 08.5mm (4.2”)
+110mm (4.3”)
+3-DIA. 4.5mm (0.2”)
 
 # MOUNTING
 
-|Junction Box:|TP-VDJB| | |
-|---|---|---|---|
-|Pole Mount:|TP-UDPM| | |
-|Optional Cable Gland:|TP-UWPJ| | |
-|Wall Mount:|TP-VDWM| | |
-|Pendant Mount:|TP-AIPMB| | |
-|Pendant Mount w/ Junction Box:|TP-VDWJ| | |
-|Optional Extensions:|TP-IPME2 (9”)|&|TP-IPME5 (22”)|
+|Junction Box: TP-VDJB|Pole Mount: TP-UDPM|Optional Cable Gland: TP-UWPJ|
+|---|---|---|
+|Wall Mount: TP-VDWM|Pendant Mount: TP-AIPMB|Pendant Mount: TP-AIPMB|
+|w/ Junction Box: TP-VDWJ|Junction Box: TP-VDJB|Junction Box: TP-VDJB|
+|Optional Extensions: TP-IPME2 (9”)|Optional Extensions: TP-IPME5 (22)”|Optional Extensions: TP-IPME5 (22)”|
 
 turing.ai
 
